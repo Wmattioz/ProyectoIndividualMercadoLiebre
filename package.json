@@ -1,0 +1,17 @@
+{
+  "name": "servidor-base-mercadoliebre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node source/app.js",
+    "start": "node source/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "normalize.css": "^8.0.1"
+  }
+}
