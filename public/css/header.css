@@ -1,0 +1,101 @@
+
+header{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100vw;
+        background-color: #EAC926;   
+        padding-bottom: 1rem;
+}
+    
+#header-top{
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        width: 100%;
+}
+    
+#header-top #logo{
+        display: flex;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+        flex: 0 0 50%;
+        
+}
+    
+#header-top #formularioBusqueda{
+       align-items: center;
+       align-self: center;
+        
+        
+          
+}
+
+#header-top #formularioBusqueda form{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        background-color: white;
+        border-radius: 0.5rem;
+        font-size: 2rem;
+        
+          
+}
+
+
+
+
+
+
+
+#header-top article{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        flex: 0 0 100%;
+        margin-bottom: 8px;
+        font-size: auto;
+}
+    
+
+#header-top article p{
+        font-size: auto;
+}
+    
+
+#header-top #logo img{
+        display: flex;
+        height: 100%;
+        flex-grow: 1;
+    
+}
+    
+#bottom1{
+    display:flex;
+    text-decoration: none;
+    color:black
+}
+#bottom2{
+    display:flex;
+    text-decoration: none;
+    color:black
+}
+    
+#bottom3{
+        display: flex;
+        justify-content: center;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+}
+    
+.burguer-menu{
+        display: inline-block;
+        padding: 0.5rem;
+        color:white;
+        background: #1259c3;  
+        border-radius: 5px;
+        font-size: 1.5rem;
+        text-decoration: none;
+        
+}

@@ -1,0 +1,27 @@
+@media screen and (min-width: 770px) and (max-width: 1400px){
+    
+    #bottom1 a{
+        display:block;
+        text-decoration: none;
+        color:black
+    }
+
+    #bottom2 a{
+        display:block;
+        text-decoration: none;
+        color:black
+    }
+    
+    #bottom3{
+        display: none
+    }
+    
+    #header-top article p{
+        font-size: 1.5rem
+    }
+
+    
+
+
+   
+}

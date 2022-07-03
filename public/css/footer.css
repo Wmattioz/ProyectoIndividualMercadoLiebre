@@ -1,0 +1,32 @@
+footer article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+        
+}
+
+#icono{
+    font-size: 2em;
+    color:#1259c3;
+    margin-bottom: 10px;
+}
+
+.footerEncabezado{
+    color:#666;
+    font-weight: bold
+}
+
+.footerTexto{
+    display: flex;
+    color:#666;
+    margin-bottom: 10px;
+    justify-content: center;
+    text-align: center;
+}
+
+.footerFinal{
+    color:#666;
+    background-color: white;
+    text-align: center;
+}

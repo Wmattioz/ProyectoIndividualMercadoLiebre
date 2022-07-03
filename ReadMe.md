@@ -2,40 +2,9 @@
 STYLES CSS
 
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    border: none;
-}
 
 
 
-body{
-    font-family: 'Roboto', sans-serif;
-}
-
-header{
-    background-color: #EAC926; 
-}
-
-
-
-header nav a { 
-    
-    display: block;
-    text-decoration: none;
-    color: black;
-  
-}
-
-
-main{
-    
-    background-color: #ebebeb;
-    padding: 10%;
-
-}
 
 
 main section article{
@@ -50,33 +19,15 @@ main section article{
 
 
 
-footer article{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 10px;
-        
-}
 
 
 
-#burguer-menu {
-    padding: 0.25rem;
-    color:white;
-    background: #1259c3;  
-    border-radius: 5px;
-    font-size: 0.75rem;
-}
 
-#icono{
-    font-size: 2rem;
-    color:#1259c3;
-    
-}
 
-#compra-en-cuotas{
-    text-align: center;
-}
+
+
+
+
 
 #titulares{
     
@@ -155,3 +106,18 @@ footer article{
 #header-bottom{
 
 }
+
+
+● Paleta de colores
+Amarillo: #EAC926;
+Azul: #03264C;
+Celeste: #1259c3;
+Gris oscuro: #666;
+Gris claro: #ebebeb;
+Verde: #39b54a;
+
+Cuerpos de texto: 12px
+Titulares (Basado en tu última visita/Ofertas): 24px
+Precios: 18px
+Descuentos: 16px
+Descripciones: 16px

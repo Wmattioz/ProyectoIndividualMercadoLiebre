@@ -1,0 +1,31 @@
+
+@media screen and (min-width: 362px) and (max-width: 769px) {
+
+          
+   
+    main section article{
+        box-shadow: 0px 0px 10px rgb(100, 100, 100);
+
+       
+    }
+
+    
+    .productos{
+        
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding:1rem;
+        gap:1rem;
+        width: 100vw;
+        
+    }
+
+
+    .descripcion{
+        font-size: 16px;
+        color: #666; 
+        font-weight: normal;
+    }
+
+    
+}
